@@ -11,7 +11,7 @@
 
 <p align="center">
     <a href="https://discord.gg/RfwqmyH" >
-        <img src="https://img.shields.io/discord/304088484228890644?color=blue&label=discord" alt="Discord Invite"/>
+        <img src="https://img.shields.io/discord/715174608453632070?label=Discord&style=flat-square" alt="Discord Invite"/>
     </a>
     <a href="https://tryhackme.com/p/ProtonNegativo" >
         <img src="https://img.shields.io/badge/TryHackMe-Hacking-blue" alt="THM profile"/>
