@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Dennys Kaluzny Pereira </h1>
+<h1 align="center"> ProtonNegativo</h1>
 
-<!--
-**protonnegativo/protonnegativo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+    I'm not a hacker, I`m a "Cyber Security"
+</p>
 
-Here are some ideas to get you started:
+<div align='center'>
+    <img src='https://media.giphy.com/media/iAKXyzgLVtKsU/giphy.gif'>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://discord.gg/RfwqmyH" >
+        <img src="https://img.shields.io/discord/304088484228890644?color=blue&label=discord" alt="Discord Invite"/>
+    </a>
+</p>
+<p align="center">
+“O maior inimigo do conhecimento
+não é a ignorância, é a ilusão do
+conhecimento.” <br> Stephen Hawking
+</p>
