@@ -6,7 +6,7 @@
 </p>
 
 <div align='center'>
-    <img src='https://media.giphy.com/media/iAKXyzgLVtKsU/giphy.gif'>
+    <img src='https://giphy.com/gifs/MM0Jrc8BHKx3y'>
 </div>
 
 <p align="center">
