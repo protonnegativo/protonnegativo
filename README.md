@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/discord/715174608453632070?color=green&label=Discord&logo=discord" alt="Discord Invite"/>
     </a>
     <a href="https://tryhackme.com/p/ProtonNegativo" >
-        <img src="https://img.shields.io/badge/TryHackMe-Hacking-blue" alt="THM profile"/>
+        <img src="https://img.shields.io/badge/TryHackMe-Hacking-green" alt="THM profile"/>
     </a>
 </p>
 <p align="center">
