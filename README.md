@@ -11,10 +11,14 @@
 
 <p align="center">
     <a href="https://discord.gg/RfwqmyH" >
-        <img src="https://img.shields.io/discord/715174608453632070?color=green&label=Discord&logo=discord" alt="Discord Invite"/>
+        <img src="https://img.shields.io/discord/715174608453632070?color=black&label=Discord&logo=discord" alt="Discord Invite"/>
     </a>
     <a href="https://tryhackme.com/p/ProtonNegativo" >
-        <img src="https://img.shields.io/badge/TryHackMe-Hacking-green" alt="THM profile"/>
+        <img src="https://img.shields.io/badge/TryHackMe-Hacking-black" alt="THM profile"/>
+    </a>
+    <br>
+    <a href="https://discord.gg/ZuPfJ6" >
+        <img src="https://img.shields.io/discord/715174608453632070?color=critical&label=Discord&logo=discord" alt="Discord Invite"/>
     </a>
 </p>
 <p align="center">
