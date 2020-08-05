@@ -18,7 +18,7 @@
     </a>
     <br>
     <a href="https://discord.gg/ZuPfJ6" >
-        <img src="https://img.shields.io/discord/715174608453632070?color=critical&label=Discord&logo=discord" alt="Discord Invite"/>
+        <img src="https://img.shields.io/discord/304088484228890644?color=critical&label=Discord&logo=discord" alt="Discord Invite"/>
     </a>
 </p>
 <p align="center">
