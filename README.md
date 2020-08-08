@@ -5,7 +5,7 @@
     I'm Not A Hacker I'm A Cyber Security Professional
 </p>
 <div align='center'>
-    <img src='https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif'>
+    <img src='https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif'>
 </div>
 <p align="center">	    
     <a href="https://discord.gg/RfwqmyH" >       
