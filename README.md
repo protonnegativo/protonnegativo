@@ -8,12 +8,10 @@
     <img src='https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif'>
 </div>
 <p align="center">	    
-    <a href="https://discord.gg/RfwqmyH" >       
-        <img src="https://img.shields.io/discord/715174608453632070?color=green&label=Discord&logo=discord" alt="Discord Invite"/>
+    <a href="https://discord.gg/dxhaPKY7q2" >       
+        <img src="https://img.shields.io/discord/747640554816274514?color=green&label=Discord&logo=discord" alt="Discord Invite"/>
     </a>	   
-   <a href="https://discord.gg/RyvXn8" >	
-        <img src="https://img.shields.io/discord/304088484228890644?color=green&label=Discord&logo=discord" alt="Discord Invite"/>	
-    </a>  <br>  
+<br>  
     <a href="https://tryhackme.com/p/ProtonNegativo" >
         <img src="https://img.shields.io/badge/TryHackMe-Hacking-black" alt="THM profile"/>
     </a>
