@@ -5,7 +5,7 @@
     xd xd
 </p>
 <div align='center'>
-    <img src='https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif'>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/7/72/Nonsymmetric_velocity_time_dilation.gif'>
 </div>
 <p align="center">	    
     <a href="https://discord.gg/dxhaPKY7q2" >       
