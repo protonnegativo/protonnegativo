@@ -7,10 +7,7 @@
 <div align='center'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/7/72/Nonsymmetric_velocity_time_dilation.gif'>
 </div>
-<p align="center">	    
-    <a href="https://discord.gg/dxhaPKY7q2" >       
-        <img src="https://img.shields.io/discord/715174608453632070?color=green&label=Discord&logo=discord" alt="Discord Invite"/>
-    </a>	   
+<p align="center">	       
     <a href="https://tryhackme.com/p/ProtonNegativo" >
         <img src="https://img.shields.io/badge/TryHackMe-Hacking-black" alt="THM profile"/>
     </a>
