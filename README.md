@@ -29,7 +29,3 @@ Gerenciador minimalista de carteira de investimentos para navegar na aleatorieda
   <i>"O maior inimigo do conhecimento não é a ignorância — é a ilusão do conhecimento."</i><br>
   — Stephen Hawking
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=protonnegativo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
