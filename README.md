@@ -6,10 +6,12 @@
   </a>
 </p>
 
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🛡️ [QuarkScan](https://github.com/protonnegativo/QuarkScan)
-Pentest multi-agente autônomo baseado em IA. Uma ferramenta avançada para automação de testes de segurança e análise de vulnerabilidades.
+Pentest multi-agente autônomo baseado em IA. Uma ferramenta avançada para automação de testes de segurança e análise de vulnerabilidades. *(Múltiplos problemas e melhorias mapeados e em processo de desenvolvimento/cooking)*
 
 ### 🎵 [Fanzão de Música](https://github.com/protonnegativo/FanzaoDeMusica)
 Catálogo musical pessoal para platinar a discografia dos seus artistas favoritos. Avalie faixas, acompanhe seu progresso e descubra novas músicas.
@@ -27,3 +29,7 @@ Gerenciador minimalista de carteira de investimentos para navegar na aleatorieda
   <i>"O maior inimigo do conhecimento não é a ignorância — é a ilusão do conhecimento."</i><br>
   — Stephen Hawking
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=protonnegativo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
