@@ -4,7 +4,7 @@
 <h3 align="center"><i>aka</i> <code>ProtonNegativo</code></h3>
 
 <p align="center">
-  <b>Pentester · Bug Bounty Hunter · Red Team · Offensive Security</b><br>
+  <b>Red Team · Offensive Security · Pentester · Bug Bounty Hunter</b><br>
   Automação com IA e uns projetos pessoais pelo caminho.
 </p>
 
