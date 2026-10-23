@@ -1,10 +1,11 @@
 <p align="right"><a href="https://github.com/protonnegativo">🇺🇸 English</a> · <b>🇧🇷 Português</b></p>
 
 <h1 align="center">Dennys Kaluzny Pereira</h1>
+<h3 align="center"><i>aka</i> <code>ProtonNegativo</code></h3>
 
 <p align="center">
-  <b>Pentester · Bug Bounty Hunter</b><br>
-  Segurança ofensiva, automação com IA e uns projetos pessoais pelo caminho.
+  <b>Pentester · Bug Bounty Hunter · Red Team · Offensive Security</b><br>
+  Automação com IA e uns projetos pessoais pelo caminho.
 </p>
 
 <p align="center">
