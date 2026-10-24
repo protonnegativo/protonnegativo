@@ -51,6 +51,7 @@
 | Projeto | Descrição |
 |---|---|
 | [**QuarkScan**](https://github.com/protonnegativo/QuarkScan) | Pentest multi-agente autônomo com IA para automação de testes e análise de vulnerabilidades. 🚧 Em desenvolvimento ativo |
+| [**Caramelo**](https://github.com/protonnegativo/caramelo) | OSINT passivo de username: verifica mais de 5.000 sites atrás de perfis públicos e monta um dossiê (nome, bio, avatar, links). Sem API keys, sem login |
 | [**HackingLearning**](https://github.com/protonnegativo/HackingLearning) | Material e anotações de estudo sobre hacking |
 
 ## 🚀 Projetos pessoais
