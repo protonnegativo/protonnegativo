@@ -46,6 +46,25 @@
 
 ---
 
+## 🤝 Open source contributions
+
+Merged pull requests in projects I use.
+
+<!-- contributions:start -->
+| Organization | Merged | Pull requests |
+|---|:---:|---|
+| **ProjectDiscovery** | 6 | [katana#1908](https://github.com/projectdiscovery/katana/pull/1908) · [subfinder#1981](https://github.com/projectdiscovery/subfinder/pull/1981) · [dnsx#1091](https://github.com/projectdiscovery/dnsx/pull/1091) · [httpx#2685](https://github.com/projectdiscovery/httpx/pull/2685) · [nuclei-templates#17506](https://github.com/projectdiscovery/nuclei-templates/pull/17506) · [naabu#1801](https://github.com/projectdiscovery/naabu/pull/1801) |
+| **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
+| **Google** | 2 | [gonids#258](https://github.com/google/gonids/pull/258) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) |
+| **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
+| **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
+| **Kubescape** | 1 | [regolibrary#855](https://github.com/kubescape/regolibrary/pull/855) |
+| **Microsoft** | 1 | [kiota-python#832](https://github.com/microsoft/kiota-python/pull/832) |
+| **mitmproxy** | 1 | [mitmproxy#8512](https://github.com/mitmproxy/mitmproxy/pull/8512) |
+| **NSA** | 1 | [ghidra#10011](https://github.com/NationalSecurityAgency/ghidra/pull/10011) |
+| **Truffle Security** | 1 | [trufflehog#5471](https://github.com/trufflesecurity/trufflehog/pull/5471) |
+<!-- contributions:end -->
+
 ## 🛡️ Security
 
 | Project | Description |

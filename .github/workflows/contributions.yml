@@ -1,0 +1,29 @@
+name: Contributions
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild the contributions table
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/contributions.py
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet; then
+            echo "No change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update open source contributions"
+          git push
