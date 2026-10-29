@@ -72,6 +72,7 @@ Pull requests mergeados em projetos que eu uso.
 
 | Projeto | Descrição |
 |---|---|
+| [**Raijin**](https://github.com/protonnegativo/raijin) | 15 ferramentas de segurança feitas para agentes de IA. Cada uma embrulha um engine que você já usa (nuclei, httpx, ffuf, katana...) e devolve um JSON pequeno, deduplicado e ranqueado em vez de milhares de linhas (`raijin-scan`: de 39× a 134× menos tokens que a saída do nuclei). Um servidor MCP expõe todas. MIT |
 | [**QuarkScan**](https://github.com/protonnegativo/QuarkScan) | Pentest multi-agente autônomo com IA para automação de testes e análise de vulnerabilidades. 🚧 Em desenvolvimento ativo |
 | [**Caramelo**](https://github.com/protonnegativo/caramelo) | OSINT passivo de username: verifica mais de 5.000 sites atrás de perfis públicos e monta um dossiê (nome, bio, avatar, links). Sem API keys, sem login |
 | [**HackingLearning**](https://github.com/protonnegativo/HackingLearning) | Material e anotações de estudo sobre hacking |
