@@ -56,6 +56,7 @@ Merged pull requests in projects I use.
 | **ProjectDiscovery** | 6 | [katana#1908](https://github.com/projectdiscovery/katana/pull/1908) · [subfinder#1981](https://github.com/projectdiscovery/subfinder/pull/1981) · [dnsx#1091](https://github.com/projectdiscovery/dnsx/pull/1091) · [httpx#2685](https://github.com/projectdiscovery/httpx/pull/2685) · [nuclei-templates#17506](https://github.com/projectdiscovery/nuclei-templates/pull/17506) · [naabu#1801](https://github.com/projectdiscovery/naabu/pull/1801) |
 | **Google** | 3 | [gonids#258](https://github.com/google/gonids/pull/258) · [gvisor#16480](https://github.com/google/gvisor/pull/16480) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) |
 | **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
+| **vanhauser-thc** | 2 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) |
 | **fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
 | **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
 | **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
