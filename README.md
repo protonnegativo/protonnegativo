@@ -66,6 +66,7 @@ Merged pull requests in projects I use.
 | **NSA** | 1 | [ghidra#10011](https://github.com/NationalSecurityAgency/ghidra/pull/10011) |
 | **NuvioMedia** | 1 | [NuvioTVSmart#1151](https://github.com/NuvioMedia/NuvioTVSmart/pull/1151) |
 | **OJ** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
+| **simbasjungles** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
 | **Truffle Security** | 1 | [trufflehog#5471](https://github.com/trufflesecurity/trufflehog/pull/5471) |
 <!-- contributions:end -->
 
