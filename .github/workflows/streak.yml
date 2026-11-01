@@ -1,0 +1,44 @@
+name: Keep contribution streak
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # 17:00 em Brasília
+    - cron: '30 22 * * *' # 19:30 em Brasília, caso a primeira atrase ou falhe
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Commit even if today already has contributions'
+        type: boolean
+        default: false
+
+jobs:
+  commit:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # O GitHub conta o dia em UTC; só commita se o dia ainda está sem contribuição
+      - name: commit if today has no contributions
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          today=$(date -u +%F)
+          count=$(gh api graphql \
+            -f query='query($login:String!,$from:DateTime!){user(login:$login){contributionsCollection(from:$from){contributionCalendar{totalContributions}}}}' \
+            -f login='${{ github.repository_owner }}' -f from="${today}T00:00:00Z" \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+          echo "contributions on $today: $count"
+          if [ "$count" -gt 0 ] && [ "$FORCE" != "true" ]; then
+            exit 0
+          fi
+          echo "$today" >> .github/streak.log
+          git config user.name protonnegativo
+          git config user.email protonnegativo@users.noreply.github.com
+          git add .github/streak.log
+          git commit -m "Keep contribution streak"
+          git push
