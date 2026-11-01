@@ -2,7 +2,7 @@ name: Bomberman contribution graph
 
 on:
   schedule:
-    - cron: '0 3 * * *' # todo dia às 00:00 (horário de Brasília)
+    - cron: '0 */6 * * *' # a cada 6 horas
   workflow_dispatch:
   push:
     branches:
@@ -33,3 +33,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # O GitHub guarda as imagens externas do README (como o card de streak) por até 24h
+      - name: refresh cached README images
+        run: |
+          curl -s https://github.com/${{ github.repository_owner }} \
+            | grep -o 'https://camo.githubusercontent.com/[^"]*' | sort -u \
+            | xargs -r -n1 curl -s -X PURGE -o /dev/null
