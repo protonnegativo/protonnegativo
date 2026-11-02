@@ -56,17 +56,19 @@ Pull requests mergeados em projetos que eu uso.
 | **ProjectDiscovery** | 6 | [katana#1908](https://github.com/projectdiscovery/katana/pull/1908) · [subfinder#1981](https://github.com/projectdiscovery/subfinder/pull/1981) · [dnsx#1091](https://github.com/projectdiscovery/dnsx/pull/1091) · [httpx#2685](https://github.com/projectdiscovery/httpx/pull/2685) · [nuclei-templates#17506](https://github.com/projectdiscovery/nuclei-templates/pull/17506) · [naabu#1801](https://github.com/projectdiscovery/naabu/pull/1801) |
 | **Google** | 3 | [gonids#258](https://github.com/google/gonids/pull/258) · [gvisor#16480](https://github.com/google/gvisor/pull/16480) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) |
 | **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
-| **vanhauser-thc** | 2 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) |
-| **epi052** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
-| **fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
+| **THC** | 2 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) |
+| **feroxbuster** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
+| **Fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
+| **gobuster** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
 | **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
 | **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
 | **Kubescape** | 1 | [regolibrary#855](https://github.com/kubescape/regolibrary/pull/855) |
+| **Meta** | 1 | [ThreatExchange#2029](https://github.com/meta/ThreatExchange/pull/2029) |
 | **Microsoft** | 1 | [kiota-python#832](https://github.com/microsoft/kiota-python/pull/832) |
 | **mitmproxy** | 1 | [mitmproxy#8512](https://github.com/mitmproxy/mitmproxy/pull/8512) |
 | **NSA** | 1 | [ghidra#10011](https://github.com/NationalSecurityAgency/ghidra/pull/10011) |
 | **NuvioMedia** | 1 | [NuvioTVSmart#1151](https://github.com/NuvioMedia/NuvioTVSmart/pull/1151) |
-| **OJ** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
+| **NVIDIA** | 1 | [k8s-device-plugin#2127](https://github.com/NVIDIA/k8s-device-plugin/pull/2127) |
 | **simbasjungles** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
 | **Truffle Security** | 1 | [trufflehog#5471](https://github.com/trufflesecurity/trufflehog/pull/5471) |
 <!-- contributions:end -->
