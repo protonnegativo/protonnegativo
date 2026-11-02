@@ -32,6 +32,7 @@ NAMES = {
     "vanhauser-thc": "THC",
     "epi052": "feroxbuster",
     "OJ": "gobuster",
+    "simbasjungles": "free-my-tv",
     "aws": "Amazon",
     "aws-cloudformation": "Amazon",
     "NVIDIA": "NVIDIA",

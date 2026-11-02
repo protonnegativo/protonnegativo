@@ -59,6 +59,7 @@ Pull requests mergeados em projetos que eu uso.
 | **THC** | 2 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) |
 | **feroxbuster** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
 | **Fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
+| **free-my-tv** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
 | **gobuster** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
 | **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
 | **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
@@ -69,7 +70,6 @@ Pull requests mergeados em projetos que eu uso.
 | **NSA** | 1 | [ghidra#10011](https://github.com/NationalSecurityAgency/ghidra/pull/10011) |
 | **NuvioMedia** | 1 | [NuvioTVSmart#1151](https://github.com/NuvioMedia/NuvioTVSmart/pull/1151) |
 | **NVIDIA** | 1 | [k8s-device-plugin#2127](https://github.com/NVIDIA/k8s-device-plugin/pull/2127) |
-| **simbasjungles** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
 | **Truffle Security** | 1 | [trufflehog#5471](https://github.com/trufflesecurity/trufflehog/pull/5471) |
 <!-- contributions:end -->
 
