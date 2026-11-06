@@ -62,6 +62,7 @@ Pull requests mergeados em projetos que eu uso.
 | **feroxbuster** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
 | **Fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
 | **free-my-tv** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
+| **frida** | 1 | [frida-tools#208](https://github.com/frida/frida-tools/pull/208) |
 | **gobuster** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
 | **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
 | **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
