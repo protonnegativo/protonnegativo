@@ -73,6 +73,7 @@ Merged pull requests in projects I use.
 | **NSA** | 1 | [ghidra#10011](https://github.com/NationalSecurityAgency/ghidra/pull/10011) |
 | **NuvioMedia** | 1 | [NuvioTVSmart#1151](https://github.com/NuvioMedia/NuvioTVSmart/pull/1151) |
 | **NVIDIA** | 1 | [k8s-device-plugin#2127](https://github.com/NVIDIA/k8s-device-plugin/pull/2127) |
+| **rapid7** | 1 | [metasploit-framework#22049](https://github.com/rapid7/metasploit-framework/pull/22049) |
 | **Truffle Security** | 1 | [trufflehog#5471](https://github.com/trufflesecurity/trufflehog/pull/5471) |
 <!-- contributions:end -->
 
