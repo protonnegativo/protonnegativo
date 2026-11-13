@@ -106,9 +106,9 @@ Pull requests mergeados em projetos que eu uso.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/bomberman-contribution-graph.svg">
-    <img width="100%" alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/bomberman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/profile-green-animate.svg">
+    <img width="100%" alt="Gráfico 3D de contribuições" src="https://raw.githubusercontent.com/protonnegativo/protonnegativo/output/profile-green-animate.svg">
   </picture>
 </p>
 
