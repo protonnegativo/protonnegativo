@@ -58,6 +58,7 @@ Merged pull requests in projects I use.
 | **Eglantine-Community** | 3 | [Eglantine#456](https://github.com/Eglantine-Community/Eglantine/pull/456) · [Eglantine#413](https://github.com/Eglantine-Community/Eglantine/pull/413) · [Eglantine#338](https://github.com/Eglantine-Community/Eglantine/pull/338) |
 | **THC** | 3 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) · [thc-hydra#1116](https://github.com/vanhauser-thc/thc-hydra/pull/1116) |
 | **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
+| **anchore** | 1 | [syft#5469](https://github.com/anchore/syft/pull/5469) |
 | **bettercap** | 1 | [bettercap#1310](https://github.com/bettercap/bettercap/pull/1310) |
 | **feroxbuster** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
 | **Fortra** | 1 | [impacket#2346](https://github.com/fortra/impacket/pull/2346) |
