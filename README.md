@@ -54,8 +54,8 @@ Merged pull requests in projects I use.
 | Organization | Merged | Pull requests |
 |---|:---:|---|
 | **ProjectDiscovery** | 6 | [katana#1908](https://github.com/projectdiscovery/katana/pull/1908) · [subfinder#1981](https://github.com/projectdiscovery/subfinder/pull/1981) · [dnsx#1091](https://github.com/projectdiscovery/dnsx/pull/1091) · [httpx#2685](https://github.com/projectdiscovery/httpx/pull/2685) · [nuclei-templates#17506](https://github.com/projectdiscovery/nuclei-templates/pull/17506) · [naabu#1801](https://github.com/projectdiscovery/naabu/pull/1801) |
-| **Google** | 4 | [gonids#258](https://github.com/google/gonids/pull/258) · [gvisor#16480](https://github.com/google/gvisor/pull/16480) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) · [osv-scalibr#2507](https://github.com/google/osv-scalibr/pull/2507) |
 | **Eglantine-Community** | 3 | [Eglantine#456](https://github.com/Eglantine-Community/Eglantine/pull/456) · [Eglantine#413](https://github.com/Eglantine-Community/Eglantine/pull/413) · [Eglantine#338](https://github.com/Eglantine-Community/Eglantine/pull/338) |
+| **Google** | 3 | [gonids#258](https://github.com/google/gonids/pull/258) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) · [osv-scalibr#2507](https://github.com/google/osv-scalibr/pull/2507) |
 | **THC** | 3 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) · [thc-hydra#1116](https://github.com/vanhauser-thc/thc-hydra/pull/1116) |
 | **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
 | **anchore** | 1 | [syft#5469](https://github.com/anchore/syft/pull/5469) |
@@ -65,6 +65,7 @@ Merged pull requests in projects I use.
 | **free-my-tv** | 1 | [free-my-tv#216](https://github.com/simbasjungles/free-my-tv/pull/216) |
 | **frida** | 1 | [frida-tools#208](https://github.com/frida/frida-tools/pull/208) |
 | **gobuster** | 1 | [gobuster#678](https://github.com/OJ/gobuster/pull/678) |
+| **gvisor** | 1 | [gvisor#16480](https://github.com/gvisor/gvisor/pull/16480) |
 | **Hydra Launcher** | 1 | [hydra-themes#255](https://github.com/hydralauncher/hydra-themes/pull/255) |
 | **jadx** | 1 | [jadx#3030](https://github.com/skylot/jadx/pull/3030) |
 | **Kubescape** | 1 | [regolibrary#855](https://github.com/kubescape/regolibrary/pull/855) |
