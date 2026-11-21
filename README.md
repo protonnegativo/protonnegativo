@@ -58,6 +58,7 @@ Merged pull requests in projects I use.
 | **Google** | 3 | [gonids#258](https://github.com/google/gonids/pull/258) · [go-tpm#451](https://github.com/google/go-tpm/pull/451) · [osv-scalibr#2507](https://github.com/google/osv-scalibr/pull/2507) |
 | **THC** | 3 | [thc-hydra#1118](https://github.com/vanhauser-thc/thc-hydra/pull/1118) · [thc-hydra#1117](https://github.com/vanhauser-thc/thc-hydra/pull/1117) · [thc-hydra#1116](https://github.com/vanhauser-thc/thc-hydra/pull/1116) |
 | **Apple** | 2 | [pkl-go#277](https://github.com/apple/pkl-go/pull/277) · [password-manager-resources#1862](https://github.com/apple/password-manager-resources/pull/1862) |
+| **Amazon** | 1 | [cfn-lint#4940](https://github.com/aws-cloudformation/cfn-lint/pull/4940) |
 | **anchore** | 1 | [syft#5469](https://github.com/anchore/syft/pull/5469) |
 | **bettercap** | 1 | [bettercap#1310](https://github.com/bettercap/bettercap/pull/1310) |
 | **feroxbuster** | 1 | [feroxbuster#1327](https://github.com/epi052/feroxbuster/pull/1327) |
